@@ -41,5 +41,6 @@ Improving IT support fundamentals and technical communication
 
 GitHub: https://github.com/KumuT5
 
+Email:kusum.til5@gmail.com
 
 **I believe in steady improvement — building real projects, learning consistently, and focusing on practical skills that translate directly to industry roles.**
