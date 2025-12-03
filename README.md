@@ -8,7 +8,7 @@ My goal is to build a strong, project-based portfolio that demonstrates clear pr
 
 I learn by doing, and every project I complete strengthens my foundation in real-world tech skills.
 
-Core Skills
+**Core Skills**
 
 Programming: Python
 
@@ -20,7 +20,7 @@ Database: SQL (beginner to intermediate)
 
 IT Support 
 
-Projects
+**Projects**
 
 Salary Analyzer
 A complete Python analysis project involving data cleaning, merging, visualization, and generating insights from real survey data.
