@@ -7,7 +7,6 @@ This repository contains projects focused on data analysis, problem-solving, and
 
 The work here reflects a hands-on approach to learning, with an emphasis on real-world applications of Python, SQL, and data visualization tools.
 
----
 
 ## Projects
 
@@ -18,7 +17,6 @@ An end-to-end data analysis project using Python, SQL, and Power BI.
 - Interactive dashboard creation in Power BI  
 - Analysis of salary trends and patterns  
 
----
 
 ### IRIS – Institutional Risk Assessment System
 A structured system designed to evaluate and score institutional risks.
