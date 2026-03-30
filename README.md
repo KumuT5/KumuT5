@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 **KUSUM TILOKANI**
-
-## Hi there 👋
+**Tech & Data Enthusiast**
 
 This repository contains projects focused on data analysis, problem-solving, and building practical tech skills.
 
@@ -27,18 +26,20 @@ A structured system designed to evaluate and score institutional risks.
 - Role-based data handling for controlled reporting  
 - Focus on data-driven evaluation and decision support  
 
----
+(More projects will be added as I continue learning.) 
 
-## Focus Areas
+**What I’m Working On** 
 
-- Data Analysis and Visualization  
-- SQL and Data Management  
-- Dashboard Development (Power BI)  
-- Building structured, real-world projects  
+Strengthening Python and SQL Expanding my data analysis portfolio Building small, meaningful projects to improve hands-on skills Improving IT support fundamentals and technical communication
 
----
+**Contact me**
+
+Email:Kusumtilokani@gmail.com
 
 ## Note
+
+A complete list of projects is available here:  
+👉 [View All Projects](https://github.com/KumuT5)
 
 More projects will be added over time as part of continuous learning and skill development.
 
