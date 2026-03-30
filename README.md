@@ -41,4 +41,5 @@ A structured system designed to evaluate and score institutional risks.
 ## Note
 
 More projects will be added over time as part of continuous learning and skill development.
+
 **I believe in steady improvement — building real projects, learning consistently, and focusing on practical skills that translate directly to industry roles.**
