@@ -1,46 +1,44 @@
 ## Hi there 👋
 
 **KUSUM TILOKANI**
-**Aspiring Data & IT Professional | Python • Data Analysis • SQL**
 
-I am a Computer Science student focused on developing practical skills in Python, data analysis, SQL, and IT support.
-My goal is to build a strong, project-based portfolio that demonstrates clear problem-solving ability, technical understanding, and consistent improvement.
+## Hi there 👋
 
-I learn by doing, and every project I complete strengthens my foundation in real-world tech skills.
+This repository contains projects focused on data analysis, problem-solving, and building practical tech skills.
 
-**Core Skills**
+The work here reflects a hands-on approach to learning, with an emphasis on real-world applications of Python, SQL, and data visualization tools.
 
-Programming: Python
+---
 
-Data Skills: Data cleaning, preprocessing, exploratory analysis, visualizations
+## Projects
 
-Tools: Jupyter Notebook, Anaconda
+### Salary Analyzer
+An end-to-end data analysis project using Python, SQL, and Power BI.
+- Data cleaning and preprocessing using Pandas  
+- Structured data handling using SQL  
+- Interactive dashboard creation in Power BI  
+- Analysis of salary trends and patterns  
 
-Database: SQL (beginner to intermediate)
+---
 
-IT Support 
+### IRIS – Institutional Risk Assessment System
+A structured system designed to evaluate and score institutional risks.
+- Risk scoring framework with analytical logic  
+- Role-based data handling for controlled reporting  
+- Focus on data-driven evaluation and decision support  
 
-**Projects**
+---
 
-Salary Analyzer
-A complete Python analysis project involving data cleaning, merging, visualization, and generating insights from real survey data.
+## Focus Areas
 
-(More projects will be added as I continue learning.)
+- Data Analysis and Visualization  
+- SQL and Data Management  
+- Dashboard Development (Power BI)  
+- Building structured, real-world projects  
 
-**What I’m Working On**
+---
 
-Strengthening Python and SQL
+## Note
 
-Expanding my data analysis portfolio
-
-Building small, meaningful projects to improve hands-on skills
-
-Improving IT support fundamentals and technical communication
-
-**Contact**
-
-GitHub: https://github.com/KumuT5
-
-Email:kusum.til5@gmail.com
-
+More projects will be added over time as part of continuous learning and skill development.
 **I believe in steady improvement — building real projects, learning consistently, and focusing on practical skills that translate directly to industry roles.**
